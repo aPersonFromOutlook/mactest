@@ -1,4 +1,4 @@
-dont modify the code, execpt when adding code for the applications.
+dont modify the code, execpt when adding code for the applications, or anything for the taskbar.
 
 no deleting the .bas file, its VERY important.
 
